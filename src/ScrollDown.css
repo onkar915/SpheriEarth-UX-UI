@@ -1,0 +1,35 @@
+.scroll_down{
+  
+   
+  
+ 
+    
+   
+ color:#166954;
+  position:absolute;
+  padding-left: 30px;
+  bottom: 200px;
+ width:10%;
+  height: 60px;
+
+ 
+  cursor: pointer;
+  animation: fadeIn 0.3s;
+  transition: opacity 0.4s;
+ opacity: 0.8;
+ 
+}
+
+.scrollTop:hover{
+  opacity: 1;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+

@@ -1,0 +1,120 @@
+.blog {
+    text-align: center;
+    color:red;
+    padding:10px;
+}
+.product{
+    padding:20px;
+    margin-left: 10px;
+    
+
+}
+.product>h1{
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.product_sectionthree{
+    object-fit:contain;
+   margin-top:2%;
+    text-align:center;
+    background-color:#cfe4e2;
+    align-items:center;
+    justify-content:center;
+    
+   
+}
+.product_sectionthree > img{
+    object-fit:contain;
+   display:flex;
+   margin-left: 10%;
+ 
+
+    
+}
+.product_sectionfive{
+  display:flex;
+  object-fit:contain;
+  justify-content:space-between;
+    margin-top:2%;
+    align-items:center;
+    background-color:#cfe4e2;
+    
+}
+
+.product_sectionfive> h1{
+text-align:center;
+}
+.product_sectionfive> img{
+display:flex;
+object-fit:contain;
+}
+
+.product_section > img{
+    margin-left:5%;
+    display:flex;
+
+    
+}
+
+.product_sectionfour{
+    margin-top:2%;
+    
+    text-align:center;
+    justify-content:center;
+}
+
+.product_sectionfour> img{
+    height:500px;
+    object-fit:contain;
+}
+.product_sectionone{
+
+    display: flex;
+  
+}
+
+.product_sectiontwo{
+    display: flex;
+}
+.product_sectiontwo>img{
+    display: flex;
+    width: 300px;
+    border-radius: 10px;
+    height: 300px;
+}
+.product_sectiontwo>ul>li{
+   align-items:center;
+    text-align:center;
+}
+.product_sectionone> img{
+    display: flex;
+    object-fit: contain;
+    width: 400px;
+    border-radius: 10px;
+}
+.blog> h1{
+    font-size:40px;
+    margin-bottom:2%;
+}
+
+.blog> img{
+    width:100%;
+}
+
+.blog_main >img{
+    display:flex;
+margin:auto;
+ background-color:white;
+ padding-bottom:10px;
+    padding:20px;
+    align-items:center;
+    transition: transform 50ms ease-in-out;
+     object-fit:contain;
+   
+}
+.blog_main > img:hover{
+  
+   
+    transform: scale(1.2);
+}

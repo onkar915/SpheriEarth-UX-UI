@@ -1,0 +1,18 @@
+
+.like{
+  align-items: center;
+  text-align: center;
+}
+.like> h2{
+ 
+    text-align: center;
+   
+    
+
+    
+}
+
+.like> button{
+   margin: 1%;
+   color:red;
+}

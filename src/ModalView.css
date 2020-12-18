@@ -1,0 +1,49 @@
+.modal_one{
+    padding-top:10px ;
+    margin-top: 20%;
+    margin-left: 35%;
+   background-color:#cfe4e2;
+    height: 200px;
+    width:400px;
+    border-radius: 10px;
+  
+    
+}
+.modal > button{
+    position: absolute;
+  
+   align-items: center;
+   margin-left: 6%;;
+background-color: #166954;;
+margin-top: -33px;
+   padding: 8px;
+       border:2px solid green;
+      color:white;
+      border-radius:20px;
+       transition: transform 50ms ease-in;
+}
+
+.modal> button:hover {
+  background-color: #166954;
+     opacity: 2;
+    transform: scale(1.1);
+}
+.modal_one> button{
+  margin-left: 44%;
+  border-radius: 10px;
+   background-color:#166954;
+   color:white;
+ 
+}
+.modal_one> h2{
+  text-align: center;
+}
+
+.modal_one> p{
+  text-align: center;
+}
+.modal_one> img{
+ align-items: center;
+ margin-left: 40%;
+ height: 40%;
+}

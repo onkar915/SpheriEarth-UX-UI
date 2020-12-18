@@ -1,0 +1,57 @@
+.blog {
+    text-align: center;
+    color:black;
+    padding:10px;
+}
+
+.blog> h1{
+    font-size:40px;
+    margin-bottom:2%;
+}
+
+.blog> img{
+    width:100%;
+    
+}
+
+.blog_card{
+     display:flex;
+ margin-left:50px;
+    padding: 30px;
+   
+    
+}
+.blog_card> a{
+text-decoration: none;
+color:black
+}
+.blog_title{
+  margin-left:10%;
+  border-bottom: 1px solid gray;
+width: 87%;
+
+}
+
+.blog_link{
+  text-decoration: none;
+  color: black;
+}
+.home_subscribe>input{
+width:20%;
+padding:5px;
+     margin-top:3%;
+      border-radius:20px;
+      border:2px solid gray;
+
+  }
+
+    .home_subscribe> button{
+      border:2px solid green;
+      color: black;
+      background-color:green;
+      border-radius:20px;
+  }
+.home_section{
+      display: flex;
+    padding: 30px;
+}

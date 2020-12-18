@@ -1,0 +1,116 @@
+.home__section {
+    display: flex;
+    padding: 30px;
+  background-color: #CFE4E2;
+}
+
+  
+ 
+
+  .home_media{
+   display:flex;
+   justify-content:center;
+    padding: 10px
+   
+
+  }
+  .home_subscribe{
+         color: black;
+    text-align: center;
+    padding:20px;
+  }
+
+  .home_subscribe>input{
+margin-right:10% ;
+     margin-top:3%;
+      border-radius:20px;
+
+  }
+
+
+  .home_para > button{
+    background-color: #166954;
+     margin-top:5%;
+     border-radius:50px;
+     border: 2px solid green;
+     color:white;
+   
+      text-transform: inherit;
+     
+  }
+.home_para > button:hover{
+ 
+  
+    color:#166954;
+}
+
+  .home_para{
+      text-align: center;
+      font-size: larger;
+      font-weight: 500;
+       align-items:center;
+   padding-top:100px;
+ margin-left:10%;
+    width: 400px;
+   
+    
+  }
+
+  
+.home_logo > img{
+    height:100px;
+  object-fit:contain;
+  padding: 10px;
+  padding-left: 7%;
+    }
+.home_logo > .uni{
+max-height: fit-content;
+max-width: fit-content;
+margin-left: 5%;
+margin-bottom:2%;
+}
+    .home_logo> h1{
+   text-align:center;
+   padding-top:10px;
+   margin-bottom: 5%;
+    }
+
+  .home_media > img{
+object-fit: contain;
+    height:320px;
+    border-radius: 20px;
+    margin-left: 2%;
+    margin-top: 8%;
+    padding-bottom: 10px;
+
+  }
+
+  .home_media > button{
+      display:flex;
+      flex-direction: row;
+    justify-content: center;
+      border-radius: 20px;
+     
+  }
+
+  .home_player{
+      display: flex;
+      justify-content: center;
+      object-fit: contain;
+     align-items: center;
+     padding: 10px;
+    
+      
+  }
+  .home_player > iframe{
+      border-radius: 20px;
+  }
+
+.side{
+  margin-left: 25%;
+  padding-top:2px;
+  
+}
+.home_para > .btn1{
+  margin-left: 25%;
+}
